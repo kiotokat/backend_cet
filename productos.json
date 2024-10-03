@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Oversize Vibras Positivas",
+    "description": "Camiseta de algodón orgánico, corte oversize, estampado de frase motivacional en el pecho.",
+    "price": 25,
+    "img": "https://i.pinimg.com/564x/52/9d/36/529d36bd1abcbdb2b0e0739f4ee8b1cb.jpg",
+    "code": "CAM-001",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Jeans Mom Fit Desgastados",
+    "description": "Jeans de denim clásico, corte mom fit, bajo desgastado y tiro alto.",
+    "price": 45,
+    "img": "https://i.pinimg.com/564x/ec/ba/28/ecba28bad82ff432a704f4bb2a29c856.jpg",
+    "code": "JEA-002",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Vestido Midi Floral",
+    "description": "Vestido midi de tirantes finos, estampado floral de verano, vuelo ligero y espalda descubierta.",
+    "price": 55,
+    "img": "https://i.pinimg.com/564x/92/98/7c/92987c7e1a502eb89fcba93bb6c79f4d.jpg",
+    "code": "VES-003",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "title": "Sudadera Crop Top",
+    "description": "Sudadera corta de algodón, estampado de frase empoderadora, manga larga y cuello redondo.",
+    "price": 30,
+    "img": "https://i.pinimg.com/564x/25/bd/76/25bd7679d87ac03a0b83e4a33d92b8f1.jpg",
+    "code": "SUD-004",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Cartera Roja",
+    "description": "Perfecta para complementar cualquier outfit.",
+    "price": 50,
+    "img": "https://i.pinimg.com/564x/62/bc/be/62bcbe7b7ec0f93715deb9f5cdfaa1e8.jpg",
+    "code": "CAR-001",
+    "stock": 25
+  }
+]
